@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MathyQ</string>
+    <string name="key_nickname" />
+    <string name="score">0</string>
+</resources>
