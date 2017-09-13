@@ -1,5 +1,5 @@
 <h1> MathyQ </h1>
 
-<h2>Random Test Game</h2>
+<h2>First Math Test Game</h2>
 
-Source code for **personal** use. 
+Source code of my first android game for **personal** use. 
